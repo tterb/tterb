@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **tterb/tterb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,11 +36,14 @@ Here are some ideas to get you started:
 
 I enjoy creating and contributing to open-source packages and writing blog posts about the new technologies I'm exploring. You can always see what I've been up to at [brettstevenson.io](https://brettstevenson.io).
 
-- 👨‍💻 I’m currently working at [Disqus](https://disqus.com)
-- ⚡️ I'm currently excited about [Gatsby](https://www.gatsbyjs.org/), [TailwindCSS](https://tailwindcss.com/), & [GraphQL](https://graphql.org/)
-- :pencil: I'm currently writing a lot of Javascript and Python
-- 🌱 I’m always learning
+- 👨‍💻  &nbsp;I’m currently working at [Disqus](https://disqus.com)
+- ⚡️ &nbsp;I'm currently excited about [Gatsby](https://www.gatsbyjs.org/), [TailwindCSS](https://tailwindcss.com/), & [GraphQL](https://graphql.org/)
+- :pencil: &nbsp;I'm currently writing a lot of Javascript and Python
+- 🌱  &nbsp;I’m always learning
 
 <br />
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=tterb&hide=[%22contribs%22])
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tterb&hide=[%22contribs%22]" alt="Github Stats" /> <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tterb&hide=css&layout=compact" alt="Top Languages" />
+</p>
