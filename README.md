@@ -43,7 +43,7 @@ I enjoy creating and contributing to open-source packages and writing blog posts
 
 <br />
 
-<p align="left" width="90%">
-  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api?username=tterb&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
-  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tterb&hide=css&layout=compact" alt="Top Languages" />
+<p align="left">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=tterb&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tterb&hide=css&layout=compact" alt="Top Languages" />
 </p>
