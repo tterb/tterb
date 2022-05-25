@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 I enjoy creating and contributing to open-source packages and writing blog posts about the new technologies I'm exploring. You can always see what I've been up to at [brettstevenson.io](https://brettstevenson.io).
 
 - 👨‍💻  &nbsp;I’m currently working at [Common Room](https://www.commonroom.io/)
-- ⚡️ &nbsp;I'm currently excited about [Snowpack](https://www.snowpack.dev/), [TailwindCSS](https://tailwindcss.com/), & [GraphQL](https://graphql.org/)
+- ⚡️ &nbsp;I'm currently excited about [TailwindCSS](https://tailwindcss.com/), [Vite](https://vitejs.dev/), & [GraphQL](https://graphql.org/)
 - :pencil: &nbsp;I'm currently writing mostly Javascript and Python
-- 🌱  &nbsp;I’m always learning
+- 🌱  &nbsp;I’m always learning something
 
 <br />
 
