@@ -37,7 +37,8 @@ I enjoy creating and contributing to open-source packages and writing blog posts
 
 - 👨‍💻  &nbsp;I’m currently working at [Common Room](https://www.commonroom.io/)
 - ⚡️ &nbsp;I'm currently excited about [TailwindCSS](https://tailwindcss.com/), [Vite](https://vitejs.dev/), & [GraphQL](https://graphql.org/)
-- :pencil: &nbsp;I'm currently writing mostly Javascript and Python
+- :pencil: &nbsp;I'm currently writing mostly Typescript and Python
+- 🏗️  &nbsp;I enjoy building developer tools or anythings related to music
 - 🌱  &nbsp;I’m always learning something
 
 <br />
