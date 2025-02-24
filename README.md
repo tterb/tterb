@@ -48,10 +48,11 @@ I enjoy creating and contributing to open-source packages and writing blog posts
 [![PyPI download total](https://img.shields.io/pypi/dm/yt2mp3.svg?color=green&label=pypi)](https://pypi.python.org/pypi/yt2mp3/) -->
 
 <p align="left">
-<!--   GitHub stats -->
+  <!--   GitHub stats -->
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=tterb&theme=dark&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
-<!--   Top languages -->
-<!--   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tterb&theme=dark&langs_count=9b&hide=css&layout=compact" alt="Top Languages" /> -->
+  <!--   Top languages -->
+  &nbsp;&nbsp;&nbsp;
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tterb&theme=dark&hide=css&layout=compact" alt="Top Languages" />
 </p>
 
 <br />
