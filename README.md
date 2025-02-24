@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <a href="https://www.buymeacoffee.com/kBZ9V2w8h">
     <img src="https://user-images.githubusercontent.com/16360374/87501619-60914480-c614-11ea-8c13-a8a5129e7448.png" alt="Buy me a coffee" height="45" />
   </a>
-  <a href="https://twitter.com/bstevensondev">
+  <a href="https://twitter.com/tttterb">
     <img src="https://user-images.githubusercontent.com/16360374/87503304-b5cf5500-c618-11ea-88ad-eebb40f570b2.png" alt="Twitter" height="45" />
   </a>
 </p>
@@ -38,7 +38,7 @@ I enjoy creating and contributing to open-source packages and writing blog posts
 - 👨‍💻  &nbsp;I’m currently working at [Common Room](https://www.commonroom.io/)
 - ⚡️ &nbsp;I'm currently excited about [TailwindCSS](https://tailwindcss.com/), [Vite](https://vitejs.dev/), & [GraphQL](https://graphql.org/)
 - :pencil: &nbsp;I'm currently writing mostly Typescript and Python
-- 🏗️  &nbsp;I enjoy building developer tools or anythings related to music
+- 🏗️  &nbsp;I enjoy building developer tools or anything related to music
 - 🌱  &nbsp;I’m always learning something
 
 <br />
