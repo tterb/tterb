@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <a href="https://dev.to/tterb">
-    <img src="https://user-images.githubusercontent.com/16360374/87501757-be259100-c614-11ea-854d-77405a469ca2.png" alt="Dev.to" height="45" />
-  </a>
   <a href="https://www.npmjs.com/~tterb">
     <img src="https://user-images.githubusercontent.com/16360374/87503303-b5cf5500-c618-11ea-836e-065bbc221a12.png" alt="npm" height="45" />
+  </a>
+  <a href="https://dev.to/tterb">
+    <img src="https://user-images.githubusercontent.com/16360374/87501757-be259100-c614-11ea-854d-77405a469ca2.png" alt="Dev.to" height="45" />
   </a>
   <a href="https://dribbble.com/tterb">
     <img src="https://user-images.githubusercontent.com/16360374/87503301-b536be80-c618-11ea-8c99-45cce807ce83.png" alt="Dribbble" height="45" />
@@ -48,8 +48,10 @@ I enjoy creating and contributing to open-source packages and writing blog posts
 [![PyPI download total](https://img.shields.io/pypi/dm/yt2mp3.svg?color=green&label=pypi)](https://pypi.python.org/pypi/yt2mp3/) -->
 
 <p align="left">
+<!--   GitHub stats -->
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=tterb&theme=dark&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tterb&theme=dark&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
+<!--   Top languages -->
+<!--   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tterb&theme=dark&langs_count=9b&hide=css&layout=compact" alt="Top Languages" /> -->
 </p>
 
 <br />
